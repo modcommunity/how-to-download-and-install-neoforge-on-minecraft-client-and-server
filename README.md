@@ -191,7 +191,7 @@ You can now start the server using the generated `run.bat` file on Windows or `r
 If you're looking to set up automatic restarts for your server, you can create a simple wrapper script that runs the server and restarts it if the main server script crashes or stops. Here's an example of how you can do this on both Windows and Linux.
 
 #### Windows (Batch Script)
-Create a new file called [`start_server.bat`](./scripts/start-server.bat) in the same directory as your server files and `run.bat` with the following contents:
+Create a new file called [`start_server.bat`](https://github.com/modcommunity/how-to-download-and-install-neoforge-on-minecraft-client-and-server/blob/main/scripts/start-server.bat) in the same directory as your server files and `run.bat` with the following contents:
 
 ```batch
 @echo off
@@ -213,7 +213,7 @@ goto start
 ```
 
 #### Linux (Bash Script)
-Create a new file called [`start_server.sh`](./scripts/start-server.sh) in the same directory as your `run.sh` and server files with the following contents:
+Create a new file called [`start_server.sh`](https://github.com/modcommunity/how-to-download-and-install-neoforge-on-minecraft-client-and-server/blob/main/scripts/start-server.sh) in the same directory as your `run.sh` and server files with the following contents:
 
 ```bash
 #!/bin/bash

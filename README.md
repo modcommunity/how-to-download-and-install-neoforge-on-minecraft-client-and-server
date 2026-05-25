@@ -258,6 +258,6 @@ NeoForge is a fantastic modding platform that offers a more modern and user-frie
 
 If you have any questions or are looking for a modding community to be a part of, consider joining our [Discord server](https://discord.moddingcommunity.com)!
 
-Guides we create are always open to edits and improvements, so if you have any suggestions or notice any issues, feel free to contribute by creating a [pull request](https://github.com/modcommunity/-how-to-download-and-install-neoforge-on-minecraft-client-and-server/pulls) on our GitHub repository!
+Guides we create are always open to edits and improvements, so if you have any suggestions or notice any issues, feel free to contribute by creating a [pull request](https://github.com/modcommunity/how-to-download-and-install-neoforge-on-minecraft-client-and-server/pulls) on our GitHub repository!
 
 Happy modding!
